@@ -1,4 +1,4 @@
-### Howdy 👋
+## Howdy 👋
 ##### My name is Blake, I currently work as a frontend dev-- Looking to learn new technologies beyond frontend development.
 ##### 👍 Fighting Texas Aggie Class of '21 👍 Gig 'em
 ***
