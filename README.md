@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hello 👋
+***
+### Currently working as a frontend dev using:
+* React
+* Redux
+* Redux-saga
+* styled-components
+***
+### Languages used:
+* C++
+* Swift, UIKit
+* Python
+* Javascript
+### 
+
+
 
 <!--
 **blake-c-aggienetwork/blake-c-aggienetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
