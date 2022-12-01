@@ -1,6 +1,7 @@
 ## Howdy 👋
 ##### My name is Blake, I currently work as a frontend dev-- Looking to learn new technologies beyond frontend development.
 ##### 👍 Fighting Texas Aggie Class of '21 👍 Gig 'em
+##### Competing in Advent of Code 2022 right now
 ***
 ### 🔨 Currently working as a frontend dev using 🔨:
 * <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
