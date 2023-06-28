@@ -1,5 +1,5 @@
 ## Howdy 👋
-##### My name is Blake, I currently work as a frontend dev-- Looking to learn new technologies beyond frontend development.
+##### My name is Blake,I work as a software engineer
 ##### Please see my personal webpage at: [blakecarr.dev](https://blakecarr.dev)
 ***
 ### 🧰 Languages 🧰:
