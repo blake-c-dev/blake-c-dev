@@ -1,5 +1,5 @@
 ## Howdy 👋
-##### My name is Blake,I work as a software engineer
+##### My name is Blake, I work as a software engineer
 
 <!--
 **blake-c-aggienetwork/blake-c-aggienetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
