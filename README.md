@@ -1,9 +1,5 @@
 ## Howdy 👋
 ##### My name is Blake,I work as a software engineer
-##### Please see my personal webpage at: [blakecarr.dev](https://blakecarr.dev)
-***
-### 🧰 Languages 🧰:
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 
 <!--
 **blake-c-aggienetwork/blake-c-aggienetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
